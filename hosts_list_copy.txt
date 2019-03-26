@@ -1,3 +1,4 @@
+type=string
 1493361689.rsc.cdn77.org
 30-day-change.com
 2468.go2cloud.org
